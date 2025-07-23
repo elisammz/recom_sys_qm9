@@ -1,1 +1,15 @@
+# Ignore data folder
 data/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Ignore CSV and Excel files
+*.csv
+*.xlsx
