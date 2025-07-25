@@ -5,7 +5,6 @@ output/
 output_final/
 output_final_tokenizer/
 
-
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
