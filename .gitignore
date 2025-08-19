@@ -2,8 +2,8 @@
 data/
 chemberta_finetuned_model/
 output/
-output_final/
-output_final_tokenizer/
+#output_final/
+#output_final_tokenizer/
 fine_tune_examples/
 
 # Ignore Jupyter Notebook checkpoints
