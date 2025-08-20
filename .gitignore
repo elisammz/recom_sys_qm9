@@ -18,3 +18,6 @@ __pycache__/
 # Ignore CSV and Excel files
 *.csv
 *.xlsx
+
+# Ignore some ipynb files that are not needed
+Variational_Autoencoder_for_Molecule_Discovery.ipynb
